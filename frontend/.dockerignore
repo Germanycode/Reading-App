@@ -1,0 +1,10 @@
+.env
+.env.*
+node_modules
+.next
+.next-build
+out
+dist
+npm-debug.log*
+next-*.log
+Dockerfile

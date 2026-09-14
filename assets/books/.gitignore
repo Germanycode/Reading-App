@@ -1,0 +1,8 @@
+# Ignore PDF files (copyright)
+*.pdf
+*.epub
+*.mobi
+
+# Keep folder structure
+!.gitkeep
+!README.md
