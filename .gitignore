@@ -41,3 +41,6 @@ assets/sounds/*
 !assets/sounds/.gitkeep
 .DS_Store
 Thumbs.db
+
+# Local agent instructions
+AGENT.md
